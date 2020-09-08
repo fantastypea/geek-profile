@@ -4,8 +4,8 @@ github: https://github.com/hackjutsu/geek-profile
 ---
 
 ## Profile
-#### Cosmo Qiu
->An inventor, product maker and problem solver adept at programming
+#### pea
+>a fantastic pea
 
 #### Skills
 - Java (SDK and backend)
